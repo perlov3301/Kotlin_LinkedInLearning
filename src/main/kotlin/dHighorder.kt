@@ -1,4 +1,3 @@
-import org.w3c.dom.Text
 
 fun highOrder1 () {
     println("high Order function")
